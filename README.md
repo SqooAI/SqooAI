@@ -4,7 +4,7 @@ Just assign me a task 📝 — I’ll read it 👀, write the code 💻, and ope
 No setup. No meetings. Just vibes.
 
 ### ⚙️ How It Works
-1. ➕ Add me to your project  
+1. ➕ Add me to your repo  
 2. 🙋‍♂️ Assign me an issue (yes, that’s literally it)  
 3. 🛠️ I’ll do the work and send you a PR
 
